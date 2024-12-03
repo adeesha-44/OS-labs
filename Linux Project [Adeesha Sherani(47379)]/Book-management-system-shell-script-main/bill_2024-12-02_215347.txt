@@ -1,0 +1,8 @@
+------ Purchase Bill ------
+Book Number: 9
+Book Name: Reclaim your Heart
+Author Name: Yasmeen Mujahid
+Quantity: 50
+Price per copy: 1500
+Total Price: 
+---------------------------

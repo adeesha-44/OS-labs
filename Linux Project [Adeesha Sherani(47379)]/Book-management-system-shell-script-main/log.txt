@@ -1,0 +1,24 @@
+2024-12-02 21:47:03: Displayed all books
+2024-12-02 21:47:38: Deleted book: 44
+2024-12-02 21:47:49: Displayed all books
+2024-12-02 21:48:26: Deleted book: 2
+2024-12-02 21:48:30: Displayed all books
+2024-12-02 21:50:01: Added book: 2 - Man-o-Salwa by Nimra Ahmad (800 copies)
+2024-12-02 21:50:08: Displayed all books
+2024-12-02 21:50:23: Backup created: ./backup_books_2024-12-02_21:50:23.txt
+2024-12-02 21:50:37: Deleted book: 2
+2024-12-02 21:50:45: Displayed all books
+2024-12-02 21:51:41: Data restored from: backup_books_2024-12-02_21:50:23.txt
+2024-12-02 21:51:46: Displayed all books
+2024-12-02 21:52:28: Added book: 3 - Operating System by Kausar Nasreen (600 copies)
+2024-12-02 21:52:30: Modified book: 2
+2024-12-02 21:52:33: Displayed all books
+2024-12-02 21:52:55: Admin logged out
+2024-12-02 21:53:07: Searched for book: 3
+2024-12-02 21:53:31: Displayed all books
+2024-12-02 21:53:47: Purchased 50 copies of Reclaim your Heart, Total Price: 
+2024-12-03 08:13:58: Displayed all books
+2024-12-03 08:14:14: Admin logged out
+2024-12-03 08:14:19: Displayed all books
+2024-12-03 08:14:24: User logged out
+2024-12-03 08:14:27: System exited

@@ -1,0 +1,10 @@
+6|Bal-e-Jibril|Allama Iqbal|700|500
+7|Afsana-e-Dil|Murtasim Haider|898|400
+5|Ishq-e-Mamnoo|Ayan Zaffar|884|600
+8|Fankar Larki|Halaay Sultan|700|1000
+9|Reclaim your Heart|Yasmeen Mujahid|900|1500
+1|Rag-e-Jaan|Hashim Kardar|500|1200
+3|Ab-e-Hayat|Umera Ahmad|795|1000
+2|Man-o-Salwa|Nimra Ahmad|773|700
+11|Dil-e-Gumshuda|Haroon Shahid|800|2000
+44|Twisted Love|Herry Keth|790|1500
